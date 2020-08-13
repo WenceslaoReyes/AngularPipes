@@ -1,5 +1,5 @@
 import { Component, resolveForwardRef } from '@angular/core';
-import { lol } from 'a';
+
 
 @Component({
   selector: 'app-root',
